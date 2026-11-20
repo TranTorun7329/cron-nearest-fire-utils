@@ -1,6 +1,6 @@
 [project]
 name = "cron-nearest-fire-utils"
-version = "0.1.1"
+version = "0.1.2"
 description = "Calculates the upcoming execution time for a given cron expression"
 requires-python = ">=3.10"
 dependencies = []
